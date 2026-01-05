@@ -48,7 +48,7 @@
 <h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3182ce&center=true&vCenter=true&width=600&lines=Solving+Complex+Challenges;Studying+Data+Structures;Optimizing+Algorithms;Active+on+Codeforces" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3182ce&center=true&vCenter=true&width=600&lines=Solving+Complex+Challenges;Studying+Data+Structures;Optimizing+Algorithms" alt="" />
 </div>
 
 <div align="center">
