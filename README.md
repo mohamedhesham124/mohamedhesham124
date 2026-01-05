@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&label=" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=" />
@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-aftereffects&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&label=" />
 </p>
 
 ---
@@ -56,13 +56,13 @@
     <img src="https://img.shields.io/badge/Codeforces-mohamedhesham-3182ce?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/mohamedhesham124/">
-    <img src="https://img.shields.io/badge/LeetCode-mohamedhesham124-FFA500?style=flat-square&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-mohamedhesham-FFA500?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/mohamedhesham">
     <img src="https://img.shields.io/badge/CodeChef-mohamedhesham-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
   <a href="https://atcoder.jp/users/mohamedhesham124">
-    <img src="https://img.shields.io/badge/AtCoder-mohamedhesham124-5E7CE2?style=flat-square&logo=atcoder&logoColor=white" />
+    <img src="https://img.shields.io/badge/AtCoder-mohamedhesham-5E7CE2?style=flat-square&logo=atcoder&logoColor=white" />
   </a>
 </div>
 
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:h85mohamedhesham@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamedhesham123/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
