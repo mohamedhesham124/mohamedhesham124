@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/MIPS-FF6B00?style=flat-square&logo=mips&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-aftereffects&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white&label=" />
