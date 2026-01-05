@@ -23,7 +23,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&label=" />
