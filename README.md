@@ -1,21 +1,5 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=200
-      &section=header
-      &color=0:7ee8a1,100:7fbfff
-      &text=Mohamed%20Hesham
-      &fontSize=58
-      &fontColor=ffffff
-      &fontAlignY=40
-      &animation=fadeIn
-      &desc=Computer%20Engineering%20Student%20%7C%20Competitive%20Programmer%20%7C%20Backend%20Developer
-      &descAlignY=60
-      &descAlign=50
-      &descSize=18"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamed Hesham&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20Computer%20Engineering%20Student%20%7C%20Backend%20Dev&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
 ---
