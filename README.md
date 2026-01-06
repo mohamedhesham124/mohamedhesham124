@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center"> About Me</h2>
+<h2 align="center">📌 About Me</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0078&center=true&vCenter=true&width=600&lines=hesham+interesting+in+math;hesham+interesting+in+problem+solving;hesham+interesting+in+web+development;hesham+interesting+in+database" alt="" />
@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center"> Tech Stack</h2>
+<h2 align="center">🧑‍💻 Tech Stack</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=400&lines=Training with+C%2B%2B;Building+with+Javascript;Scripting+in+Python" alt="" />
