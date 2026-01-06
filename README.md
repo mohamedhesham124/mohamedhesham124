@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center">🧑‍💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=400&lines=Training with+C%2B%2B;Building+with+Javascript;Scripting+in+Python" alt="" />
